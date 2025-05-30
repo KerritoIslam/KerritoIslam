@@ -3,7 +3,7 @@ Hi! I'm a student developer from Algeria, currently studying at ESI (École Nati
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@mohamed_islam_amour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amour-mohamed-islam) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@mohamed_islam_amour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amour-mohamed-islam-7a52a6353/) 
 
 # 💻 Tech Stack:
 <div align="center"> 
